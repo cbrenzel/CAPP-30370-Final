@@ -4,10 +4,10 @@ body{background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9G
 header{background-image: url('http://t1.gstatic.com/images?q=tbn:ANd9GcRTS0upmRsaY3oEpliWg_vUCs97x-SbTUfgF6aetWHZzZ3TVWcSrA');
       margin: 10px; 
       padding: 10px;
-box-shadow: 3px 3px 5px black;
-border-radius: 12px;
- text-align:center;
-  color:#542A04;}
+	box-shadow: 3px 3px 5px black;
+	border-radius: 12px;
+	text-align:center;
+	color:#542A04;}
 
 nav{ border-radius: 12px;
    text-align:center;
@@ -23,7 +23,7 @@ nav ol{
 body{ font-family:Arial, san-serif}
 p{font-size: 150%;}
 li{font-size: 150%;}
-.main{color: #F2CE74;}
+.color{color: #F2CE74;}
 img{border:1px solid black;}
 
  footer{font-size: .7em; 
