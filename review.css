@@ -49,7 +49,7 @@ nav{padding:5px;}
 nav{width:18%}
 img {
 	float: left;
-	width: 200px;
+	width: 150px;
 	margin: 0em 1em 1em 2em;}
 main {float: left;
      max-width: 70%;}
@@ -61,6 +61,10 @@ nav {float: left;
         float: left; clear: left; }
 .about{float:left;}
 }
+@media only screen and (min-width: 1000px){
+img{ width: 200px;
+	margin 0 10px 10px 10px;}}
+main{width:80%}
 /* the animation */
 .kitten {
   -webkit-animation:cat 2s linear infinite alternate;
