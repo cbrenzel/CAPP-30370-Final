@@ -30,26 +30,26 @@ img{border:1px solid black;}
  footer{font-size: .7em; 
 		text-align: center;
 		width:95%;
-    color:#EBE2BC; 
-    clear:left;
-    float:left;
-    margin-right: 2.5%;
+		color:#EBE2BC; 
+		clear:left;
+		float:left;
+		margin-right: 2.5%;
 }
 footer ul{ list-style: none;}
 nav{padding:5px;}
 
-/*-----------------------------------------*/
+/*-------------Media Queries----------------------------*/
 @media screen {
   nav{width:100%;}
-  .main{
- width:95%;
- padding-left:2.5%;}
+ .main{
+	width:95%;
+	padding-left:2.5%;}
   img{ width:100%;
 }
 }
 @media only screen and (min-width: 700px){
-    nav{width:18%;
-        margin-right: 13px;}
+  nav{width:18%;
+       margin-right: 13px;}
   img{width:29%;
       float:right;}
   .more{float:left; width:70%;}
@@ -60,7 +60,7 @@ nav{padding:5px;}
   .source{clear:left;
           float: left;}
 }
-  @media only screen and (min-width: 1000px){
+ @media only screen and (min-width: 1000px){
     nav{width:18%;
         margin-right: 13px;}
   img{width:34%;
@@ -69,8 +69,8 @@ nav{padding:5px;}
   .more{float:left; width:65%;}
   .made{float:left; width:65%}
   .historyText{float:left; width:65%;}
-    .history{overflow:hidden;}
-    .group2{clear:left;}
+  .history{overflow:hidden;}
+  .group2{clear:left;}
   .source{clear:left;
           float: left;}
   }
