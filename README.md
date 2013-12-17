@@ -40,10 +40,3 @@ and the navagation box both have background images as well.
 Can be found on the My Distillery Visits page. When you click the 
 picture of the Woodford Reserve Distillery it grows in size. This is done using jquery. 
 
-
-
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
->
-> ## This is an H2 in a blockquote
